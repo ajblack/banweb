@@ -1,0 +1,51 @@
+body
+{
+background-image:url('title.png'), 
+  url('title-edge.png'), 
+  url('right.png'), 
+  url('left.png');
+background-position: left top, right top, right bottom, left bottom;
+background-repeat: no-repeat, repeat-x, repeat-y, repeat-y;
+padding-top: 220px;
+padding-left: 300px;
+padding-right: 300px;
+}
+
+table
+{
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+td
+{
+  min-width: 75px;
+  padding: 5px;
+}
+
+td.title{
+  min-width: 200px;
+}
+
+td.table-title{
+ font-size:150%;
+}
+
+td.table-col-title{
+ font-weight:bold;
+}
+
+
+td.gpa-title{
+ font-style:italic;
+ text-align:right;
+}
+
+td.gpa{
+ text-align:right;
+ font-style:italic;
+}
+
+td.buffer{
+ padding-top:20px;
+}

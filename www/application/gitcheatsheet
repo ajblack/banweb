@@ -1,0 +1,36 @@
+
+
+
+
+
+
+
+
+
+#Full Cheat Sheet
+http://www.ndkhanh.com/wp-content/cs3212/pdf/git-cheat-sheet.svg
+
+#See files changed
+git status
+
+#Uploading
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+git add <filename>
+git commit -a
+#add your comment! Getting out of vim:
+Escape (so it doesnt say INSERT at the bottom)
+Shift+:
+wq
+#push to server!
+git push
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#Pulling!
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#Fetch last changes, NO MERGE
+git fetch
+
+#Fetch last changes, MERGE
+git pull
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test

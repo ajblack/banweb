@@ -1,0 +1,1 @@
+<h1> Administration </h1><br /><br /><?php    echo "<a href='index.php?page=documents'> Update Documents</a>";    echo "<BR />";    echo "<BR />";    echo "<a href='index.php?page=up_dec'> Update Decision</a>";?>

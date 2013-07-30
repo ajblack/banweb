@@ -1,0 +1,16 @@
+Team 4
+Emma Fletcher 
+Avani Dhamsania 
+
+Deliverables
+
+March 27: ER Diagram (Emma & Avani)
+	  Plan tables (Emma & Avani) 
+
+April 3: Populate tables scripts (Emma & Avani)
+	 Transcript view (Emma)
+	 Professor view (Avani)
+
+April 10: General Secretary view (Emma & Avani) 
+	
+April 17: Testing 
